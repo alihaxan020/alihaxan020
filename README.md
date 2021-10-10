@@ -1,13 +1,5 @@
-- 👋 Hi, I am Ali Hassan
-- 👀 I’m interested in learning full stack development 
-- 🌱 I’m currently learning React Js
-
-<!---
-alihaxan020/alihaxan020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-### Hi there 👋, my name is Ali Hassan
-![](https://pbs.twimg.com/profile_banners/981872157297868800/1576083205/200x600)
+### Hi there 👋, I am Ali Hassan
+![](https://pbs.twimg.com/profile_banners/981872157297868800/1576083205/600x200)
 
  As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack Javascript career path, and loves working with cutting edge tools and technologies.
 
